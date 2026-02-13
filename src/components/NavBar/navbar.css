@@ -31,8 +31,8 @@
 }
 
 .desktopMenuBtn {
-    background: white;
-    color: black;
+    background: rgb(240, 236, 236);
+    color: rgb(24, 22, 22);
     border: none;
     display: flex;
     align-items: center;
@@ -75,7 +75,7 @@
 }
 
 .listItem {
-    color: white;
+    color: rgb(240, 234, 234);
     padding: 0.5rem 3rem;
     margin: 0.25rem;
     background: rgb(30, 30, 30);
