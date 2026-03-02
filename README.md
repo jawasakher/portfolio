@@ -1,70 +1,129 @@
-# Getting Started with Create React App
+# Personal Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Vite](https://img.shields.io/badge/Build-Vite-purple?logo=vite)
+![Status](https://img.shields.io/badge/Status-Production--Ready-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## Project Summary
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project is a professional portfolio website built with React and Vite to showcase skills, projects, experience, and personal branding in a clean and responsive user interface.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The portfolio is designed to meet modern frontend engineering standards and demonstrate practical application of scalable architecture, performance optimization, and maintainability.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Engineering Principles
 
-### `npm run build`
+### Component-Based Architecture
+- Isolated, reusable UI components
+- Clear separation of concerns  
+- Structured folder organization
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Clean Code & Maintainability
+- ESLint enforced code quality
+- Consistent naming conventions
+- Readable and modular structure
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Performance Optimization
+- Rapid development with Vite tooling  
+- Optimized production build
+- Minimal bundle size and efficient rendering
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Responsive & Accessible UI
+- Mobile-first responsive design  
+- Semantic HTML and ARIA considerations  
+- Cross-device compatibility
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React
+- Vite
+- JavaScript (ES Modules)
+- CSS
+- ESLint
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Project Structure
 
-## Learn More
+portfolio/
+│
+├── public/
+│   └── portfolio-preview.png
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── styles.css
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Installation & Development
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Clone the repository:
 
-### Code Splitting
+git clone https://github.com/jawasakher/portfolio.git
+Install dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+npm install
+Run development server:
 
-### Analyzing the Bundle Size
+npm run dev
+Local server runs at:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+http://localhost:5173
+---
 
-### Making a Progressive Web App
+## Production Build
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Create a production build:
 
-### Advanced Configuration
+npm run build
+Preview production build:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+npm run preview
+---
 
-### Deployment
+## Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+The portfolio can be deployed to:
 
-### `npm run build` fails to minify
+- Vercel
+- Netlify
+- GitHub Pages
+- Any static hosting solution
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## Future Enhancements
+
+- TypeScript conversion
+- Dark mode support
+- Unit and integration tests
+- Performance auditing (Lighthouse / WebPageTest)
+- SEO improvements
+- CI/CD setup
+
+---
+
+## About the Developer
+
+Jawa Sakher  
+Frontend Engineer focused on modern UI architecture, performance, and maintainable codebases.
+
+GitHub: https://github.com/jawasakher
+
+---
+
+This portfolio reflects frontend engineering capabilities and readiness to contribute to production systems.
