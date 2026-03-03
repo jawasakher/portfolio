@@ -6,7 +6,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 
-
+<p align="center">
+  <img src="portfolio-preview.png" alt="Portfolio Preview" width="900"/>
+</p>
 ## Project Summary
 
 This project is a professional portfolio website built with React and Vite to showcase skills, projects, experience, and personal branding in a clean and responsive user interface.
