@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="portfolio-preview.png" alt="Portfolio Preview" width="900"/>
+  <img src="Personal Portfolio Website.png" alt="Portfolio Preview" width="900"/>
 </p>
 ## Project Summary
 
